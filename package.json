@@ -1,0 +1,26 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilim-Ogakwu/es6-primer.git"
+  },
+  "type": "module",
+  "author": "Chukwudilim Ogakwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilim-Ogakwu/es6-primer/issues"
+  },
+  "homepage": "https://github.com/Dilim-Ogakwu/es6-primer#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "module": "^1.2.5"
+  }
+}
